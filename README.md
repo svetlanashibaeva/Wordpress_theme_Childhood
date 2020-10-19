@@ -3,6 +3,6 @@
 
 Стек: HTML,CSS,JS,PHP.
 
-![Image alt](https://github.com/svetlanashibaeva/Wordpress_theme_Childhood/docs/screen1.png)
+![Image alt](https://github.com/svetlanashibaeva//blob/master/Wordpress_theme_Childhood/docs/screen1.png)
 
 Все скриншоты можно посмотреть в папке docs.
